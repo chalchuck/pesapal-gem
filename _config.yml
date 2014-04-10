@@ -1,6 +1,7 @@
 name: Pesapal Ruby Gem
 markdown: redcarpet
 pygments: true
+baseurl: /pesapal-gem
 
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables']
