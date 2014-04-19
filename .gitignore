@@ -1,1 +1,18 @@
+# Bundler #
+/.bundle
+/vendor/bundle
+
+# Coveralls #
+/coverage/
+
+# Jekyll #
 _site
+
+# Yard #
+.yardoc/*
+
+# Gem #
+/log/*
+/tmp/*
+Gemfile.lock
+*.gem
