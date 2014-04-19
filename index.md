@@ -318,7 +318,7 @@ they want as long as they provide attribution and waive liability.
 [10]: http://kingori.co/
 [11]: https://raw.githubusercontent.com/itsmrwave/pesapal-gem/master/LICENSE.txt
 [12]: https://github.com/itsmrwave/pesapal-gem/releases/
-[13]: http://rubydoc.info/gems/pesapal/
+[13]: http://rubydoc.info/gems/pesapal/frames/file/README.md
 [14]: https://github.com/itsmrwave/mo
 [15]: https://github.com/itsmrwave/mo/tree/master/convention#-convention
 [16]: http://kingori.co/articles/2013/09/modus-operandi/
