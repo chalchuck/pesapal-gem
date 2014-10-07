@@ -93,7 +93,7 @@ pesapal.config = {  :callback_url => 'http://0.0.0.0:3000/pesapal/callback',
                   }
 ```
 
-_Ps: You can change the environment using `pesapal.set_env(:development)`
+_Ps: You can change the environment using `pesapal.change_env(:development)`
 (example) if for some reason you want to override what was set in the
 constructor. This method also changes the API endpoints appropriately._
 
