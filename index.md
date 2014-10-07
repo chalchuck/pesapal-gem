@@ -18,6 +18,11 @@ here][13], the [CHANGELOG here][21] and [all the releases here][12].
 _Ps: No 3rd party oAuth library dependencies, it handles all the oAuth flows on
 it's own so your app is one dependency less._
 
+_Ps 2: This documentation is **based off version 1.6.0**. For older versions,
+rely on the version specific documentation. You can find this on
+[RubyGems.org][7]. Each version has a link to it's own page which contains a
+link to the documentation at the time it was published._
+
 
 Installation
 ------------
