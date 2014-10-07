@@ -1,6 +1,6 @@
 name: Pesapal Ruby Gem
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /pesapal-gem
 
 redcarpet:
