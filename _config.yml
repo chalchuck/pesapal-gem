@@ -6,4 +6,10 @@ baseurl: /pesapal-gem
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables']
 
-exclude: ['CNAME', 'Gemfile', 'Gemfile.lock', '*.sublime-project', 'README.md']
+exclude: ['pkg*',
+          'CNAME',
+          'Gemfile',
+          'Gemfile.lock',
+          '*.sublime-project',
+          'README.md'
+        ]
