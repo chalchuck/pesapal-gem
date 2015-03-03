@@ -12,7 +12,7 @@ Basically it's a gem that makes it easy to integrate your app with
 any direct interaction with the API endpoints so that you can focus on what
 matters. _Building awesome_.
 
-The gem should be [up on RubyGems.org][7], it's [accompanying RubyDoc reference
+The gem should be [up on RubyGems.org][7], it's [accompanying API reference
 here][13], the [CHANGELOG here][21] and [all the releases here][12].
 
 _Ps: No 3rd party oAuth library dependencies, it handles all the oAuth flows on
