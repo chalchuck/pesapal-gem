@@ -45,10 +45,10 @@ module Pesapal
     #
     # @return [String] generated random nonce.
     def self.generate_nonce(length)
-      chars = 'abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ0123456789'
       nonce = ''
+      chars = SecureRandom.base64(100).tr('=/+','Wq0')
       length.times { nonce << chars[rand(chars.size)] }
-      "#{nonce}"
+      nonce
     end
 
     # Generate the oAuth signature using HMAC-SHA1 algorithm.
